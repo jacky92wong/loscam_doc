@@ -23,10 +23,10 @@ This section contains the review-friendly business-facing documents.
 
 ## Full page list
 
-- [Industry Background and System Design Primer](industry-background-and-system-design-primer.md)
+- [Industry Background and System Design Overview](industry-background-and-system-design-primer.md)
 - [Visual Overview ASCII Diagrams](visual-overview-ascii-diagrams.md)
-- [Beginner Industry Research Checklist](beginner-industry-research-checklist.md)
-- [Client Interview Questionnaire for Beginners](client-interview-questionnaire-for-beginners.md)
+- [Industry Research and Pre-solution Checklist](beginner-industry-research-checklist.md)
+- [Client Interview Questionnaire](client-interview-questionnaire-for-beginners.md)
 - [System Boundary and Non Goals](system-boundary-and-non-goals.md)
 - [Recommendation Explainability Guide](recommendation-explainability-guide.md)
 - [Data Quality Assumptions and Degradation Rules](data-quality-assumptions-and-degradation-rules.md)
