@@ -1,50 +1,50 @@
-# LOSCAM Documentation Hub
+# LC 文档导航
 
-Welcome to the curated GitBook/Git Sync publication repository for the LOSCAM document package.
+欢迎来到当前 GitBook / Git Sync 发布仓库，这里收录的是 LC 文档包的对外发布版本。
 
-This repository contains only the current mature document set intended for customer review, technical alignment, and MVP implementation planning.
+本仓库仅包含当前已经相对成熟、适合用于客户评审、技术对齐与 MVP 实施规划的文档集合。
 
-## Recommended reading paths
+## 推荐阅读路径
 
-### Business / stakeholder path
-1. [Executive Summary and Meeting Version](business/executive-summary-and-meeting-version.md)
-2. [System Boundary and Non Goals](business/system-boundary-and-non-goals.md)
-3. [Pilot Implementation and Acceptance Plan](business/pilot-implementation-and-acceptance-plan.md)
-4. [Client Confirmation Master Checklist](business/client-confirmation-master-checklist.md)
-5. [State Transition and Data Flow Diagrams](business/state-transition-and-data-flow-diagrams.md)
+### 业务 / 干系人阅读路径
+1. [LC 汇报版总览文档](business/executive-summary-and-meeting-version.md)
+2. [LC 系统边界与非目标说明](business/system-boundary-and-non-goals.md)
+3. [LC 试点实施与验收方案](business/pilot-implementation-and-acceptance-plan.md)
+4. [LC 待客户确认问题总表](business/client-confirmation-master-checklist.md)
+5. [状态流转图与数据流图](business/state-transition-and-data-flow-diagrams.md)
 
-### Technical / implementation path
-1. [Master Outline](project-overview/master-outline.md)
-2. [Data Model](technical/data-model.md)
-3. [Forecasting Model](technical/forecasting-model.md)
-4. [Optimization Model](technical/optimization-model.md)
-5. [Routing and Dispatch](technical/routing-and-dispatch.md)
-6. [Implementation Index](implementation/implementation-index.md)
-7. [Logical Schema](implementation/logical-schema.md)
-8. [Data Contracts](implementation/data-contracts.md)
-9. [API Draft](implementation/api-draft.md)
+### 技术 / 实施阅读路径
+1. [LC 发布版阅读地图](project-overview/published-documentation-map.md)
+2. [数据模型](technical/data-model.md)
+3. [需求预测模型](technical/forecasting-model.md)
+4. [优化模型](technical/optimization-model.md)
+5. [路由与调度](technical/routing-and-dispatch.md)
+6. [实施文档总索引](implementation/implementation-index.md)
+7. [逻辑表结构草案](implementation/logical-schema.md)
+8. [数据契约草案](implementation/data-contracts.md)
+9. [API 草案](implementation/api-draft.md)
 
-## Sections
+## 文档分区
 
-- [Project Overview](project-overview/master-outline.md)
-- [Business](business/README.md)
-- [Technical](technical/README.md)
-- [Implementation](implementation/README.md)
-- [Review and Readiness](review-and-readiness/README.md)
+- [LC 发布版阅读地图](project-overview/published-documentation-map.md)
+- [业务文档](business/README.md)
+- [技术文档](technical/README.md)
+- [实施文档](implementation/README.md)
+- [评审与就绪度](review-and-readiness/README.md)
 
-## Scope notes
+## 范围说明
 
-This publish repository contains the current mature document set only.
-Drafts, working notes, logs, and GitBook API probe scripts are intentionally excluded to keep the reading path focused and safe for external sharing.
+本发布仓库只保留当前成熟文档集。
+草稿、工作笔记、日志以及 GitBook API 探测脚本均已刻意排除，以确保对外阅读路径更聚焦、更安全。
 
-## What this system is about
+## 系统定位
 
-LOSCAM is positioned as a pallet pooling decision-support system centered on:
+LC 当前定位为一个围绕托盘池化业务的决策支持系统，核心关注点包括：
 
-- shortage identification
-- demand forecasting
-- dispatch recommendation
-- manual approval
-- execution feedback
+- 缺口识别
+- 需求预测
+- 调拨建议
+- 人工审批
+- 执行反馈
 
-The goal of this repository is not to describe an all-in-one platform, but to support a controlled MVP review and implementation path.
+本仓库的目标不是描述一个大而全的平台，而是支撑一个可控的 MVP 评审与实施路径。

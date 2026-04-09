@@ -1,33 +1,33 @@
-# Implementation
+# 实施文档
 
-This section translates the business and technical material into MVP-oriented implementation documents.
+本分区将业务与技术材料进一步转换为面向 MVP 的实施文档。
 
-## Included documents
+## 包含文档
 
-- [Implementation Index](implementation-index.md)
-- [Logical Schema](logical-schema.md)
-- [Data Contracts](data-contracts.md)
-- [API Draft](api-draft.md)
-- [Forecasting Pseudocode](forecasting-pseudocode.md)
-- [Dispatch Heuristic](dispatch-heuristic.md)
+- [实施文档总索引](implementation-index.md)
+- [逻辑表结构草案](logical-schema.md)
+- [数据契约草案](data-contracts.md)
+- [API 草案](api-draft.md)
+- [需求预测实施伪代码](forecasting-pseudocode.md)
+- [调拨启发式实施稿](dispatch-heuristic.md)
 
-## Recommended reading order
+## 推荐阅读顺序
 
-1. [Implementation Index](implementation-index.md)
-2. [Logical Schema](logical-schema.md)
-3. [Data Contracts](data-contracts.md)
-4. [API Draft](api-draft.md)
-5. [Forecasting Pseudocode](forecasting-pseudocode.md)
-6. [Dispatch Heuristic](dispatch-heuristic.md)
+1. [实施文档总索引](implementation-index.md)
+2. [逻辑表结构草案](logical-schema.md)
+3. [数据契约草案](data-contracts.md)
+4. [API 草案](api-draft.md)
+5. [需求预测实施伪代码](forecasting-pseudocode.md)
+6. [调拨启发式实施稿](dispatch-heuristic.md)
 
-## Scope
+## 范围
 
-This section is focused on the MVP implementation loop:
+本分区聚焦 MVP 实施闭环：
 
-- order input
-- inventory input
-- state correction
-- forecasting output
-- dispatch recommendation output
-- approval feedback
-- execution writeback
+- 订单输入
+- 库存输入
+- 状态纠偏
+- 预测输出
+- 调拨建议输出
+- 审批反馈
+- 执行回写

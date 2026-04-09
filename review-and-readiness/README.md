@@ -1,16 +1,16 @@
-# Review and Readiness
+# 评审与就绪度
 
-This section contains the current review-readiness conclusion for the LOSCAM document package.
+本分区收录当前文档包的评审就绪度结论。
 
-## Included document
+## 包含文档
 
-- [Document Package Review Readiness](document-package-review-readiness.md)
+- [LC 当前文档包完整性评审结论](document-package-review-readiness.md)
 
-## Purpose
+## 用途
 
-Use this section to understand:
+可通过本分区了解：
 
-- which parts of the document package are already mature
-- which items are still recommended before or after review
-- what should not block the current review round
-- what the review should focus on
+- 文档包中哪些部分已经相对成熟
+- 哪些事项建议在评审前或评审后补充
+- 哪些内容不应阻塞当前轮评审
+- 当前评审应重点关注什么

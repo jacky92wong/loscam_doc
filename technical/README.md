@@ -1,26 +1,26 @@
-# Technical
+# 技术文档
 
-This section contains the core modeling documents used to explain how the LOSCAM system should reason about data, demand, supply, constraints, and dispatch recommendations.
+本分区收录用于说明 LC 系统如何基于数据、需求、供给、约束与调拨建议进行建模的核心技术文档。
 
-## Included documents
+## 包含文档
 
-- [Data Model](data-model.md)
-- [Forecasting Model](forecasting-model.md)
-- [Optimization Model](optimization-model.md)
-- [Routing and Dispatch](routing-and-dispatch.md)
+- [数据模型](data-model.md)
+- [需求预测模型](forecasting-model.md)
+- [优化模型](optimization-model.md)
+- [路由与调度](routing-and-dispatch.md)
 
-## Recommended reading order
+## 推荐阅读顺序
 
-1. [Data Model](data-model.md)
-2. [Forecasting Model](forecasting-model.md)
-3. [Optimization Model](optimization-model.md)
-4. [Routing and Dispatch](routing-and-dispatch.md)
+1. [数据模型](data-model.md)
+2. [需求预测模型](forecasting-model.md)
+3. [优化模型](optimization-model.md)
+4. [路由与调度](routing-and-dispatch.md)
 
-## Reader fit
+## 适合读者
 
-Best for:
+适合以下角色：
 
-- architects
-- data / algorithm reviewers
-- implementation leads
-- technical stakeholders who need the modeling logic behind the business proposal
+- 架构设计人员
+- 数据 / 算法评审人员
+- 实施负责人
+- 需要理解业务方案背后建模逻辑的技术干系人
